@@ -1,4 +1,4 @@
-# Automated Solvation Shell Analysis for Polymer Electrolytes 🔬
+# Automated Solvation Shell Analysis for Polymer Electrolytes 
 
 A Python-based scientific computing pipeline that automates Molecular Dynamics (MD) simulation analysis for polymer electrolyte systems.
 
